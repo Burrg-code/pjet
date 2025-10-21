@@ -1,0 +1,33 @@
+
+  .logo { 
+    width: 400px; 
+     margin-left: 2%;
+}
+  .topoPag {
+    color: rgb(76, 76, 230);
+    font-size: 30px;
+    margin-left: 20%;
+     margin-top: 3px;
+}
+
+.topoPag2 {
+    color: rgb(76, 76, 230);
+    font-size: 30px;
+    margin-left: 2%;
+     margin-top: 3px;
+}
+.topoPag3 {
+    color: rgb(76, 76, 230);
+    font-size: 30px;
+    margin-top: 3px;
+    margin-left: 2%;
+}
+.topoPag:hover {
+  text-decoration: underline;
+}
+.topoPag2:hover {
+  text-decoration: underline;
+}
+.topoPag3:hover {
+  text-decoration: underline;
+}
