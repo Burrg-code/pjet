@@ -1,0 +1,397 @@
+.link-item {
+ position: relative;
+height: 110px;
+width: 100px;
+border: 1px solid #f79595;
+border-radius: 15%;
+
+
+}
+.link-item:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-item span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-item img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-item img:hover{
+   background-color: beige;
+}
+.link-item span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.divisor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-item img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-item span {
+    margin-top: 5px;
+}
+
+
+.link-item:hover {
+    text-decoration: underline;
+    
+}
+
+
+
+.link-est:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-est span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-est img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-est img:hover{
+   background-color: beige;
+}
+.link-est span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.estilor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 10px;
+}
+
+.link-est img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-est span {
+    margin-top: 5px;
+}
+
+
+.link-est:hover {
+    text-decoration: underline;
+    
+}
+
+
+
+
+.link-arq:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-arq span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-arq img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-arq img:hover{
+   background-color: beige;
+}
+.link-arq span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.arquitetor {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-arq img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-arq span {
+    margin-top: 5px;
+}
+
+
+.link-arq:hover {
+    text-decoration: underline;
+
+}
+
+
+
+
+
+
+.link-tec:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-tec span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-tec img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-tec img:hover{
+   background-color: beige;
+}
+.link-tec span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.TI {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-tec img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-tec span {
+    margin-top: 5px;
+}
+
+
+.link-tec:hover {
+    text-decoration: underline;
+   
+}
+
+
+
+
+
+
+
+
+.link-saude:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-saude span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-saude img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-saude img:hover{
+   background-color: beige;
+}
+.link-saude span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.Sauder {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-saude img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-saude span {
+    margin-top: 5px;
+}
+
+
+.link-saude :hover {
+    text-decoration: underline;
+   
+}
+
+
+
+
+
+.link-eduk:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-eduk span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-eduk img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-eduk img:hover{
+   background-color: beige;
+}
+.link-eduk span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.eduka {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-eduk img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-eduk span {
+    margin-top: 5px;
+}
+
+
+.link-eduk:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+.link-eng:hover{
+   transition: transform 0.3s ease;
+   background-color: beige;
+}
+.link-eng span {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.link-eng img {
+    position: absolute;
+    top: 30%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+.link-eng img:hover{
+   background-color: beige;
+}
+.link-eng span:hover{
+    background-color: beige;
+}
+
+.icone {
+    position: relative;
+}
+
+.Engenhero {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 45px;
+}
+
+.link-eng img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 5px; 
+}
+
+
+.link-eng span {
+    margin-top: 5px;
+}
+
+
+.link-eng:hover {
+    text-decoration: underline;
+   
+}
+
